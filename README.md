@@ -43,7 +43,7 @@ sunpma
 #RedHat/CentOS:
 
 1. yum install -y xz openssl gawk file
-2. 
+
 一键脚本
 
 示例脚本，补全DD包直连地址后运行即可；
